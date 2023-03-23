@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/devtales/static/css/main.abe3f07c.css",
-    "main.js": "/devtales/static/js/main.a6589d8e.js",
+    "main.css": "/devtales/static/css/main.0bc8b9c4.css",
+    "main.js": "/devtales/static/js/main.68687a61.js",
     "static/media/about-bg.jpg": "/devtales/static/media/about-bg.81d0ec250bb22aabf2bf.jpg",
     "static/media/hero-bg.jpg": "/devtales/static/media/hero-bg.c81dcc14d3d1931de221.jpg",
     "static/media/mobile-bg.jpg": "/devtales/static/media/mobile-bg.63e61e540fcee0b94fb8.jpg",
@@ -13,11 +13,11 @@
     "static/media/phone.svg": "/devtales/static/media/phone.465c53e1c3f00c7a6fe4f17864bbbc17.svg",
     "static/media/arrow-right.svg": "/devtales/static/media/arrow-right.353b102aa98b0f8ab9f6382d16dce9aa.svg",
     "static/media/1-circle.svg": "/devtales/static/media/1-circle.83815489c1b22c6642b07300683b3eb4.svg",
-    "main.abe3f07c.css.map": "/devtales/static/css/main.abe3f07c.css.map",
-    "main.a6589d8e.js.map": "/devtales/static/js/main.a6589d8e.js.map"
+    "main.0bc8b9c4.css.map": "/devtales/static/css/main.0bc8b9c4.css.map",
+    "main.68687a61.js.map": "/devtales/static/js/main.68687a61.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe3f07c.css",
-    "static/js/main.a6589d8e.js"
+    "static/css/main.0bc8b9c4.css",
+    "static/js/main.68687a61.js"
   ]
 }
