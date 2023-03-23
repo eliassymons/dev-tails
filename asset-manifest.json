@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/devtales/static/css/main.abe3f07c.css",
+    "main.js": "/devtales/static/js/main.a6589d8e.js",
+    "static/media/about-bg.jpg": "/devtales/static/media/about-bg.81d0ec250bb22aabf2bf.jpg",
+    "static/media/hero-bg.jpg": "/devtales/static/media/hero-bg.c81dcc14d3d1931de221.jpg",
+    "static/media/mobile-bg.jpg": "/devtales/static/media/mobile-bg.63e61e540fcee0b94fb8.jpg",
+    "static/media/brush.svg": "/devtales/static/media/brush.9bebcdc4f32a9dd22b0ee476e5dcbd8d.svg",
+    "static/media/upload.svg": "/devtales/static/media/upload.67b613cda5d7c90c246fb5a9bfe0876b.svg",
+    "index.html": "/devtales/index.html",
+    "static/media/3-circle.svg": "/devtales/static/media/3-circle.bcc74283c3ee4c8b51d48f12623f9008.svg",
+    "static/media/2-circle.svg": "/devtales/static/media/2-circle.171667f1346e93742d9f4e0552650dd5.svg",
+    "static/media/phone.svg": "/devtales/static/media/phone.465c53e1c3f00c7a6fe4f17864bbbc17.svg",
+    "static/media/arrow-right.svg": "/devtales/static/media/arrow-right.353b102aa98b0f8ab9f6382d16dce9aa.svg",
+    "static/media/1-circle.svg": "/devtales/static/media/1-circle.83815489c1b22c6642b07300683b3eb4.svg",
+    "main.abe3f07c.css.map": "/devtales/static/css/main.abe3f07c.css.map",
+    "main.a6589d8e.js.map": "/devtales/static/js/main.a6589d8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abe3f07c.css",
+    "static/js/main.a6589d8e.js"
+  ]
+}
