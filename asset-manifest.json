@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dev-tails/static/css/main.56fc14d4.css",
-    "main.js": "/dev-tails/static/js/main.e50e299c.js",
+    "main.css": "/dev-tails/static/css/main.f6534c8e.css",
+    "main.js": "/dev-tails/static/js/main.6f925449.js",
     "static/media/echo.jpeg": "/dev-tails/static/media/echo.daf64420dce2184a69ad.jpeg",
     "static/media/about-bg.jpg": "/dev-tails/static/media/about-bg.81d0ec250bb22aabf2bf.jpg",
     "static/media/ResotYg.woff": "/dev-tails/static/media/ResotYg.6140efe702f3d38314a0.woff",
@@ -27,11 +27,11 @@
     "static/media/phone.svg": "/dev-tails/static/media/phone.99dc5832f6a798dc9fb7143abe3c8f74.svg",
     "static/media/arrow-right.svg": "/dev-tails/static/media/arrow-right.353b102aa98b0f8ab9f6382d16dce9aa.svg",
     "static/media/1-circle.svg": "/dev-tails/static/media/1-circle.bac9ce58f5439fd942fd9d43dd53417e.svg",
-    "main.56fc14d4.css.map": "/dev-tails/static/css/main.56fc14d4.css.map",
-    "main.e50e299c.js.map": "/dev-tails/static/js/main.e50e299c.js.map"
+    "main.f6534c8e.css.map": "/dev-tails/static/css/main.f6534c8e.css.map",
+    "main.6f925449.js.map": "/dev-tails/static/js/main.6f925449.js.map"
   },
   "entrypoints": [
-    "static/css/main.56fc14d4.css",
-    "static/js/main.e50e299c.js"
+    "static/css/main.f6534c8e.css",
+    "static/js/main.6f925449.js"
   ]
 }
