@@ -4,7 +4,7 @@ import Services from "./components/Services";
 import Process from "./components/Process";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+
 import OurWork from "./components/OurWork";
 import Tech from "./components/Tech";
 function App() {
