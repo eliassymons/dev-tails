@@ -1,5 +1,6 @@
 {
   "name": "devtales",
+  "homepage": "https://eliassymons.github.io/dev-tails",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
