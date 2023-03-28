@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dev-tails/static/css/main.f6534c8e.css",
-    "main.js": "/dev-tails/static/js/main.6f925449.js",
+    "main.js": "/dev-tails/static/js/main.f3a86f9a.js",
     "static/media/echo.jpeg": "/dev-tails/static/media/echo.daf64420dce2184a69ad.jpeg",
     "static/media/about-bg.jpg": "/dev-tails/static/media/about-bg.81d0ec250bb22aabf2bf.jpg",
     "static/media/ResotYg.woff": "/dev-tails/static/media/ResotYg.6140efe702f3d38314a0.woff",
@@ -28,10 +28,10 @@
     "static/media/arrow-right.svg": "/dev-tails/static/media/arrow-right.353b102aa98b0f8ab9f6382d16dce9aa.svg",
     "static/media/1-circle.svg": "/dev-tails/static/media/1-circle.bac9ce58f5439fd942fd9d43dd53417e.svg",
     "main.f6534c8e.css.map": "/dev-tails/static/css/main.f6534c8e.css.map",
-    "main.6f925449.js.map": "/dev-tails/static/js/main.6f925449.js.map"
+    "main.f3a86f9a.js.map": "/dev-tails/static/js/main.f3a86f9a.js.map"
   },
   "entrypoints": [
     "static/css/main.f6534c8e.css",
-    "static/js/main.6f925449.js"
+    "static/js/main.f3a86f9a.js"
   ]
 }
