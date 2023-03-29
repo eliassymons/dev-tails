@@ -1,7 +1,10 @@
 function Contact() {
   return (
     <div id="contact" className="bg-[#eff6e0]">
-      <div className="container px-5 py-24 mx-auto bg-[#eff6e0] w-screen">
+      <form
+        className="container px-5 py-24 mx-auto bg-[#eff6e0] w-screen"
+        netlify
+      >
         <div className="flex flex-col text-center w-full mb-12">
           <h1 className="text-3xl sm:text-4xl md:text-5xl  mb-4 text-gray-900">
             Contact Us
@@ -55,7 +58,10 @@ function Contact() {
               </div>
             </div>
             <div className="p-2 w-full">
-              <button className="flex mx-auto text-white bg-[#01161E] border-0 py-2 px-8  hover:bg-[#124559] rounded-full text-lg">
+              <button
+                className="flex mx-auto text-white bg-[#01161E] border-0 py-2 px-8  hover:bg-[#124559] rounded-full text-lg"
+                type="submit"
+              >
                 Submit
               </button>
             </div>
@@ -128,7 +134,7 @@ function Contact() {
             </div>
           </div>
         </div>
-      </div>
+      </form>
     </div>
   );
 }

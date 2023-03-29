@@ -13,10 +13,10 @@ function About() {
           own, along with the Writing Center's explanation.
         </p>
         <p>
-          Note: These passages are excerpted from actual student papers and
-          retain the original wording. Some of the sentences are imperfect, but
-          we have chosen these passages to highlight areas in which the author
-          was successful.
+          Note: These <strong>passages</strong> are excerpted from actual
+          student papers and retain the original wording. Some of the sentences
+          are imperfect, but we have chosen these passages to highlight areas in
+          which the author was successful.
         </p>
         <p>
           Thanks to the students who provided their writing for this page of our
