@@ -9,7 +9,7 @@ function Process() {
       <h2 className=" text-white  text-3xl font-extrabold md:text-4xl">
         Our Process
       </h2>
-      <div className="flex items-center justify-center flex-col p-4 gap-4  md:flex-row md:items-start">
+      <div className="flex items-center justify-center flex-col p-4 gap-10 md:gap-4 md:flex-row md:items-start">
         <div className=" md:w-[30%] max-w-[18rem] space-y-4">
           <img alt="step1" src={one} className="w-[2.5rem] mx-auto my-3" />
           <p className="text-white">

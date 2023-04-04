@@ -39,7 +39,7 @@ function OurWork() {
             </p>
           </div>
         </div>
-        <div className="flex flex-col items-center gap-4 leading-relaxed justify-center max-w-md  lg:items-start">
+        {/* <div className="flex flex-col items-center gap-4 leading-relaxed justify-center max-w-md  lg:items-start">
           <img
             alt="noco"
             src={bread}
@@ -52,7 +52,7 @@ function OurWork() {
               and man do those guys know how to work!!
             </p>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
