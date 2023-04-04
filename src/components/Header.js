@@ -13,7 +13,7 @@ function Header() {
           offset={-100}
           duration={500}
         >
-          <img alt="logo" src={logo} className="w-20 block " />
+          <img alt="logo" src={logo} className="w-[3.5rem] block md:w-20 " />
         </Link>
         <ul className="flex gap-10  items-center justify-center ">
           <li>
