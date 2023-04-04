@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc328f23.css",
-    "main.js": "/static/js/main.9f11efc4.js",
+    "main.css": "/static/css/main.f95b69e9.css",
+    "main.js": "/static/js/main.c572c366.js",
     "static/media/echo.jpeg": "/static/media/echo.daf64420dce2184a69ad.jpeg",
     "static/media/about-bg.jpg": "/static/media/about-bg.81d0ec250bb22aabf2bf.jpg",
     "static/media/ResotYg.woff": "/static/media/ResotYg.6140efe702f3d38314a0.woff",
@@ -10,6 +10,7 @@
     "static/media/mobile-bg.jpg": "/static/media/mobile-bg.63e61e540fcee0b94fb8.jpg",
     "static/media/bread-loaf.jpg": "/static/media/bread-loaf.d3bdfc089799226d932b.jpg",
     "static/media/sean-bg.jpg": "/static/media/sean-bg.72d58536fda68391b3f9.jpg",
+    "static/media/devtails-logo3.png": "/static/media/devtails-logo3.2b68534e9b3d7c587b00.png",
     "static/media/guitar.png": "/static/media/guitar.d2516b55eef39920377a.png",
     "static/media/sabzi.png": "/static/media/sabzi.34f53f7c7ea99859552a.png",
     "static/media/typescript.svg": "/static/media/typescript.77eaf4f7e0a477ff37421d4ea92f4310.svg",
@@ -27,11 +28,11 @@
     "static/media/phone.svg": "/static/media/phone.99dc5832f6a798dc9fb7143abe3c8f74.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.353b102aa98b0f8ab9f6382d16dce9aa.svg",
     "static/media/1-circle.svg": "/static/media/1-circle.bac9ce58f5439fd942fd9d43dd53417e.svg",
-    "main.bc328f23.css.map": "/static/css/main.bc328f23.css.map",
-    "main.9f11efc4.js.map": "/static/js/main.9f11efc4.js.map"
+    "main.f95b69e9.css.map": "/static/css/main.f95b69e9.css.map",
+    "main.c572c366.js.map": "/static/js/main.c572c366.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc328f23.css",
-    "static/js/main.9f11efc4.js"
+    "static/css/main.f95b69e9.css",
+    "static/js/main.c572c366.js"
   ]
 }
