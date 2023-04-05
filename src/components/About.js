@@ -5,7 +5,7 @@ function About() {
       className="flex flex-col  bg-opacity-100  py-24 bg-[#01161E] space-y-6 bg-[url('./about-bg.jpg')] bg-blend-overlay bg-cover text-[#eff6e0] "
     >
       <h2 className="text-3xl font-extrabold md:text-4xl ">About</h2>
-      <div className="max-w-md space-y-4 px-4 lg:max-w-xl  mx-auto text-center lg:text-left ">
+      <div className="max-w-md space-y-4 px-4 lg:max-w-xl  mx-auto text-center lg:text-left  ">
         <p>
           Here at DevTails, we pride ourselves on our attention to detail,
           passion for aesthetic and functional beauty, and clear and open

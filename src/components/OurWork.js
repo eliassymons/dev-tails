@@ -6,7 +6,7 @@ function OurWork() {
   return (
     <div className="text-[#EFF6E0] w-full py-20 space-y-6">
       <h2 className="text-white  text-3xl font-extrabold md:text-4xl">
-        Our Work
+        Recent Work
       </h2>
       <div className="w-[85%] flex flex-col mx-auto space-y-20 items-center text-[#EFF6E0] lg:flex-row lg:items-baseline lg:space-x-16 lg:text-left lg:justify-center h-[100%] ">
         <div className="flex flex-col items-center gap-4 leading-relaxed justify-center max-w-md  lg:items-start">
