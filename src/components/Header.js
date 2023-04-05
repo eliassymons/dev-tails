@@ -6,11 +6,12 @@ function Header() {
     <div className=" flex sticky top-0">
       <nav className="w-full flex flex-col justify-between items-center px-10 py-4 space-y-3 text-[#eff6e0] bg-[#01161E] bg-opacity-80 md:flex-row">
         <Link
+          activeClass="active"
           className="text-xl font-bold md:text-2xl md:font-extrabold lg:text-3xl logo uppercase cursor-pointer"
           to="hero"
           spy={true}
           smooth={true}
-          offset={-100}
+          offset={-150}
           duration={500}
         >
           <img alt="logo" src={logo} className="w-[3.5rem] block md:w-20 " />
@@ -18,6 +19,7 @@ function Header() {
         <ul className="flex gap-10  items-center justify-center ">
           <li>
             <Link
+             activeClass="active"
               className="font-bold lg:text-xl cursor-pointer"
               to="services"
               spy={true}
@@ -30,6 +32,7 @@ function Header() {
           </li>
           <li>
             <Link
+             activeClass="active"
               className="font-bold lg:text-xl cursor-pointer"
               to="about"
               spy={true}
@@ -42,6 +45,7 @@ function Header() {
           </li>
           <li>
             <Link
+             activeClass="active"
               className="font-bold lg:text-xl cursor-pointer "
               to="contact"
               spy={true}
