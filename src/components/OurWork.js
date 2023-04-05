@@ -15,7 +15,7 @@ function OurWork() {
             src={dog}
             className="w-[18rem] max-w-[25rem] mx-auto lg:mx-0 "
           />
-          <div className="flex flex-col space-y-6 bg-[url('./images/echo.jpeg')] bg-black hover:bg-opacity-70 hover:bg-blend-overlay p-4  items-center justify-center w-1/1 h-[20rem] bg-center bg-cover group  rounded-lg hover:outline">
+          <div className="flex flex-col space-y-6 bg-[url('./images/noco-screenshot.png')] bg-black hover:bg-opacity-70 hover:bg-blend-overlay p-4  items-center justify-center w-1/1 h-[20rem] bg-center bg-cover group  rounded-lg hover:outline">
             <p className="max-w-sm md:max-w-md text-transparent group-hover:text-white">
               A website for veteran-owned pet door installation company based in
               Fort Collins, CO. We used React.js, Sass, and customized Bootstrap
@@ -30,7 +30,7 @@ function OurWork() {
             src={guitar}
             className="w-[18rem] max-w-[18rem] mx-auto lg:mx-0 "
           />
-          <div className="flex flex-col space-y-6 bg-[url('./images/sean-bg.jpg')] bg-black hover:bg-opacity-70 hover:bg-blend-overlay p-4  items-center justify-center w-1/1 h-[20rem] bg-center bg-cover group rounded-lg hover:outline">
+          <div className="flex flex-col space-y-6 bg-[url('./images/classi-screenshot.png')] bg-black hover:bg-opacity-70 hover:bg-blend-overlay p-4  items-center justify-center w-1/1 h-[20rem] bg-center bg-cover group rounded-lg hover:outline">
             <p className="max-w-sm md:max-w-md z-100 text-transparent group-hover:text-white">
               A website for San Diego based music instruction company. We
               updated the clients previous CMS-built UI to a more modern and
